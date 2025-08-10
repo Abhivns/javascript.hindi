@@ -9,6 +9,7 @@ accountEmail = "chaur@gmail.com"
 accountPassword = " 9783"
 accountCity = " Bangluru"
 
+let name = "Abhishek chaurasia"
 
 
 console.log(accountId);
